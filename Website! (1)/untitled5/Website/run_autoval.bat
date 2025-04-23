@@ -1,0 +1,1 @@
+c:\autoval\auto-validation.bat

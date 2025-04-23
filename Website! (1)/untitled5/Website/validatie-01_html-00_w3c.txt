@@ -1,0 +1,1 @@
+"file:/C:/Users/manin/WebstormProjects/untitled5/Website/UI1-low-stake-project/html/productdetail3.html":88.5-88.14: error: Stray end tag “section”.
